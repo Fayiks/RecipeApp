@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondProject", "SecondProject.csproj", "{81269631-0E67-4E0B-AB1B-97EED2987568}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Keen", "..\Keen\Keen.vdproj", "{387BD8E3-4481-42FA-8873-3EBDFE0472D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81269631-0E67-4E0B-AB1B-97EED2987568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81269631-0E67-4E0B-AB1B-97EED2987568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81269631-0E67-4E0B-AB1B-97EED2987568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81269631-0E67-4E0B-AB1B-97EED2987568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387BD8E3-4481-42FA-8873-3EBDFE0472D4}.Debug|Any CPU.ActiveCfg = Debug
+		{387BD8E3-4481-42FA-8873-3EBDFE0472D4}.Release|Any CPU.ActiveCfg = Release
+		{387BD8E3-4481-42FA-8873-3EBDFE0472D4}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01432F8E-9623-47E7-9826-BB938BAA5A95}
+	EndGlobalSection
+EndGlobal
